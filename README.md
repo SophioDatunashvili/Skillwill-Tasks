@@ -1,2 +1,4 @@
-# Skillwill-Tasks
-Python Exercises
+# DiaryBookManager
+
+
+Have fun ;) 
